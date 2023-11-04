@@ -1,10 +1,10 @@
 # 本程序为[“YuanShen窗口化适配工具”](https://github.com/FeiLingshu/YuanShen-Window-Adaptor)的衍生程序，具体使用方法完全相同，详细说明请前往该程序页面进行查看。
 
-> ### 最新使用注意事项及使用方法详细信息，请[前往这里](https://space.bilibili.com/483822869)进行查看。
+> ### 最新使用注意事项及使用方法详细信息，请[前往这里](https://www.bilibili.com/video/BV1SN4y1S7LL)进行查看。
 
 # 来自作者的补充说明
 
-**请尽量不要在GitHub上进行反馈，作者不会经常访问GitHub查看反馈信息，反馈请[前往这里](https://space.bilibili.com/483822869)的评论区进行反馈。**
+**请尽量不要在GitHub上进行反馈，作者不会经常访问GitHub查看反馈信息，反馈请[前往这里](https://www.bilibili.com/video/BV1SN4y1S7LL)的评论区进行反馈。**
 
 **本程序在 BSD-3-Clause license 下开源，程序不会对任何系统及用户进程进行侵入性代码植入。**
 
