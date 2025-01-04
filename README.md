@@ -1,3 +1,9 @@
+# 由于米哈游启动器已经公测，本项目永久迁移至新的项目：[`mhyLauncher_Go`](https://github.com/FeiLingshu/mhyLauncher_Go)
+
+> 本项目将不再进行维护，绝大多数时候也不可能在新版米哈游启动器环境下正常工作
+
+<br>
+
 # 本程序为[“YuanShen窗口化适配工具”](https://github.com/FeiLingshu/YuanShen-Window-Adaptor)的衍生程序，具体使用方法完全相同，详细说明请前往该程序页面进行查看。
 
 > ### 最新使用注意事项及使用方法详细信息，请[前往这里](https://www.bilibili.com/video/BV1SN4y1S7LL)进行查看。
